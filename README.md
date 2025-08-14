@@ -38,7 +38,7 @@ I love discussing and learning about **programming and the MERN stack**. Feel fr
 ---
 
 ### 💼 Experience
-- **Junior Software Developer** – worked on **General Motors projects**, building scalable and maintainable web applications.
+- **Junior Software Developer** – worked on **General Motors project**, building scalable and maintainable software for cars displays.
 
 ---
 
